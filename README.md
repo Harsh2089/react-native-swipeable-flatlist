@@ -1,0 +1,20 @@
+<h1>React Native Swipeable FlatList
+
+You can clone the repository and use the following commands:
+
+##### Run code
+```shell
+npm install -g expo-cli
+```
+
+##### Run code
+```shell
+npm install
+```
+
+##### Run code
+```shell
+expo start
+```
+
+![Thumbnail](react-native-swipable-flat-list.gif)
