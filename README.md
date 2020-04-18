@@ -18,5 +18,4 @@ npm install
 ```shell
 expo start
 ```
-
-![Thumbnail](react-native-swipable-flat-list.gif)
+<img src="react-native-swipable-flat-list.gif" width="100">
