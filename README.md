@@ -4,18 +4,18 @@
 
 You can clone the repository and use the following commands:
 
-##### Run code
+##### Install EXPO SDK, if you don't have
 ```shell
 npm install -g expo-cli
 ```
 
-##### Run code
+##### Install dependancies
 ```shell
 npm install
 ```
 
 ##### Run code
 ```shell
-expo start
+expo-cli start
 ```
 <img src="react-native-swipable-flat-list.gif" width="500">
