@@ -1,4 +1,4 @@
-<h1>React Native Swipeable FlatList
+<h1>React Native Swipeable FlatList<h1>
 
 You can clone the repository and use the following commands:
 
