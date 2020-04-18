@@ -1,4 +1,4 @@
-<h1>React Native Swipeable FlatList<h1>
+<h1>React Native Swipeable FlatList</h1>
 
 
 
