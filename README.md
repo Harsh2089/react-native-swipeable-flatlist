@@ -4,6 +4,8 @@
 
 You can clone the repository and use the following commands:
 
+Feel free to pull request :)
+
 ##### Install EXPO SDK, if you don't have
 ```shell
 npm install -g expo-cli
